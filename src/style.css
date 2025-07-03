@@ -1,5 +1,6 @@
 #card{
     width: 370px;
+    height: 540px;
 }
 #symbolTop, #symbolBottom {
     font-size: 90px;
@@ -7,6 +8,7 @@
 #number {
     font-size: 175px;
 }
+
 #symbolBottom {
     transform: rotate(180deg);
 }
